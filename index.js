@@ -4,7 +4,7 @@ let isAvailable = true; // boolean;
 let und = undefined; // undefined;
 let nll = null; // null;
 let obj = {
-    name: "Mohamed",
+    name: "Mohame",
     age: 30,
     isMarried: false
     
